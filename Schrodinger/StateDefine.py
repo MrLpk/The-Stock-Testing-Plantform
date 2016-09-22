@@ -1,0 +1,22 @@
+#coding=utf8
+
+BUY = 1
+OVERWEIGHT = 2
+NOTHING = 3
+STOP_BUY = 4
+
+
+STOCK = 0 # 股票
+FUND = 1 # 基金
+IDX = 2 # 指数
+
+
+BEGIN = 1
+END = 2
+
+# 标的交易状态
+STOCK_BUY = 'STOCK_BUY'
+STOCK_HOLD = 'STOCK_HOLD'
+STOCK_SELL = 'STOCK_SELL'
+STOCK_NOTHING = 'STOCK_NOTHING'
+# 标的交易状态
